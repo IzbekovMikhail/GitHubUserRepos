@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GitHubUserRepos</string>
+
+    <string name="loginEdit">Введите логин</string>
+    <string name="button">Репозитории</string>
+</resources>
